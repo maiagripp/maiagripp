@@ -2,6 +2,7 @@
 - 👀 I’m interested in Front-End 
 - 🌱 I’m currently learning JavaScript | Java | React | React Native
 - 💞️ I’m looking to collaborate on Front End Projects
+- 🥁 FrontEnd Developer at Sambatech
 - 📫 How to reach me maiaandradec@gmail.com
 
 <!---
