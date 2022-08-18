@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @maiagripp - Claudia Maia Gripp
-- 👀 I’m interested in Front-End 
-- 🌱 I’m currently learning JavaScript | Java | React | React Native
-- 💞️ I’m looking to collaborate on Front End Projects
-- 🥁 FrontEnd Developer at Sambatech
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Python
+- 🏢 FullStack Developer at Globo
 - 📫 How to reach me maiaandradec@gmail.com
 
 <!---
